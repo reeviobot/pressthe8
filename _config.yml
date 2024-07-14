@@ -6,11 +6,11 @@ gems:
 # Site settings
 title: "Pressthe8 Blog"
 description: > # this means to ignore newlines until "email:"
-   Pressthe8 Blog
+   Project updates from Pressthe8
 
 email: info@pressthe8.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/pressthe8_logo_250x250.png"
 float_logo: true # true, false (default)
 
 # blog cover
