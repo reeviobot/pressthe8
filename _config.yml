@@ -10,15 +10,15 @@ description: > # this means to ignore newlines until "email:"
 
 email: info@pressthe8.com
 #blog logo
-logo: "/assets/images/pressthe8_logo_250x250.png"
+logo: "/assets/images/pressthe8_logo_300x300.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/pressthe8_background.png"
 
 name: 'Jamie Reeve'
 author: 'Jamie Reeve'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/JR.png"
 
 paginate:	5
 
